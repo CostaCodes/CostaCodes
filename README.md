@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @CostaCodes
-- 👀 I’m interested in building websites.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on more projects...
-- 📫 How to reach me https://twitter.com/NnaemekaWisdom2
 
 <!---
 CostaCodes/CostaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +15,11 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </div>
 
 :man_technologist: About Me :
-
+- Am an Aspiring Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from🇨🇮
+- 🔭 I’m working as a Frontend Developer and Also building websites.
+- 🌱 I’m currently Learning JavaScript and exploring UI/UX Design
+- ⚡ In my free time, I read books 📖 and tech articles.
+- 📫 How to reach me https://twitter.com/NnaemekaWisdom2
  ⚒️ Languages and Tools :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
