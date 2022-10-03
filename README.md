@@ -14,13 +14,13 @@ You can click the Preview link to take a look at your changes.
 </h1>
 <div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </div>
 
-:man_technologist: About Me :
+:man_technologist: About Me:
 - Am an Aspiring Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from🇨🇮
 - 🔭 I’m working as a Frontend Developer and Also building websites.
 - 🌱 I’m currently Learning JavaScript and exploring UI/UX Design
-- ⚡ In my free time, I read books 📖 and tech articles.
+- ⚡ In my free time, I watch soccer ⚽, chat with friends, read books 📖 and tech articles.
 - 📫 How to reach me https://twitter.com/NnaemekaWisdom2
- ⚒️ Languages and Tools :
+⚒️ Languages and Tools :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
