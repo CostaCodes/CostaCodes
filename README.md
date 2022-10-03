@@ -39,7 +39,8 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CostaCodes&theme=neon_blurange)](https://git.io/streak-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CostaCodes&show_icons=true&theme=radical&locale=en&layout=compact" alt="jiakjiak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CostaCodes&show_icons=true&theme=radical&locale=en&layout=compact" alt="jiakjiak" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CostaCodes&show_icons=true&theme=radical&locale=en" alt="jiakjiak" height="140"/></p>
 
