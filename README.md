@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p><img align="center" src="https://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 github-readme-stats.vercel.app/api/top-langs?username=CostaCodes&show_icons=true&theme=radical&locale=en&layout=compact" alt="jiakjiak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CostaCodes&show_icons=true&theme=radical&locale=en&layout=compact" alt="jiakjiak" /></p>
 
 
 
