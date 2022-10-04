@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CostaCodes&theme=neon_blurange)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaCodes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CostaCodes&show_icons=true&theme=radical&locale=en&layout=compact" alt="jiakjiak" /></p>
 
